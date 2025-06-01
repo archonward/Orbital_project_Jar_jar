@@ -1,5 +1,4 @@
 {
-<<<<<<< HEAD
   "name": "jarjar-frontend",
   "version": "0.1.0",
   "private": true,
@@ -37,30 +36,5 @@
       "last 1 firefox version",
       "last 1 safari version"
     ]
-=======
-  "name": "orbital_project_jar_jar",
-  "version": "1.0.0",
-  "main": "index.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/archonward/Orbital_project_Jar_jar.git"
-  },
-  "keywords": [],
-  "author": "",
-  "license": "ISC",
-  "bugs": {
-    "url": "https://github.com/archonward/Orbital_project_Jar_jar/issues"
-  },
-  "homepage": "https://github.com/archonward/Orbital_project_Jar_jar#readme",
-  "description": "",
-  "dependencies": {
-    "cors": "^2.8.5",
-    "dotenv": "^16.5.0",
-    "express": "^5.1.0",
-    "firebase-admin": "^13.4.0"
->>>>>>> a640331c7e720e0fec574324638c784f3541a0e7
   }
 }
